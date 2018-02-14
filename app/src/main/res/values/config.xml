@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Watson Conversation Service Credentials --> 
-    <string name="workspace_id"></string> 
-    <string name="conversation_username">6789f819-b62d-49c4-b072-9a1579507985</string> 
+    <string name="Tony Test1"></string> 
+    <string name="f32c22b1-a10d-450f-bc87-f5e7825fa869">6789f819-b62d-49c4-b072-9a1579507985</string> 
     <string name="conversation_password"></string>  
 
     <!--Watson Speech-To-Text Service Credentials--> 
